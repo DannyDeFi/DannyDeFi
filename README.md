@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DannyDeFi
+- 👀 I’m interested in AI and machine learning, frontend/backend software development and decentralized finance applications!
+- 🌱 I’m currently learning Solidity and Python
+- 💞️ I’m looking to collaborate on learning strategies
+- 📫 How to reach me douglas.danielj@gmail.com
